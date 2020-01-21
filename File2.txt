@@ -2,6 +2,8 @@ Change request 1 -
 
 For updating adding items to cart
 
-change the file to check to path to remote server
+change -the file to check to path to remote server
 
-change by team mate on remote server
+change - from  team mate on remote server
+
+change-made by team member 
