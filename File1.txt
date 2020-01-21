@@ -7,8 +7,6 @@ change for feature-login
 
 change for feature logout
 
-<<<<<<< HEAD
-change to fix bug1s
-=======
-change to fix bug1
->>>>>>> bug1
+change for bug1 fix
+
+change for bug2 fix
