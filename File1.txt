@@ -3,10 +3,10 @@ Hello World!!!!
 
 Welcome to Git!!!
 
-change for feature-login
+change1 for feature-login
 
-change for feature logout
+change2 for feature logout
 
-change for bug1 fix
+change3 for bug1 fix
 
 change to from remote server by my teammate
